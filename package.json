@@ -28,7 +28,7 @@
     "stylus": "^0.50.0",
     "traceur": "0.0.84",
     "typescript": "^1.6.2",
-    "universal-analytics": "^0.3.8",
+    "universal-analytics": "^0.4.20",
     "wreck": "^5.6.1"
   },
   "devDependencies": {},
