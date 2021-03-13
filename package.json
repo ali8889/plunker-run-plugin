@@ -20,7 +20,7 @@
     "lodash": "^3.10.0",
     "markdown-it": "^3.1.0",
     "mime-types": "^2.1.2",
-    "mirage": "0.0.5",
+    "mirage": "0.0.6",
     "node-sass": "^2.1.1",
     "object-path": "^0.9.0",
     "sandboxjs": "^1.2.1",
